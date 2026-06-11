@@ -1,0 +1,23 @@
+[
+  { "year": 2005, "rainfall_mm": 120, "groundwater_index": 72, "active_khettaras_est": 380 },
+  { "year": 2006, "rainfall_mm": 95, "groundwater_index": 65, "active_khettaras_est": 360 },
+  { "year": 2007, "rainfall_mm": 140, "groundwater_index": 68, "active_khettaras_est": 350 },
+  { "year": 2008, "rainfall_mm": 110, "groundwater_index": 61, "active_khettaras_est": 330 },
+  { "year": 2009, "rainfall_mm": 85, "groundwater_index": 55, "active_khettaras_est": 310 },
+  { "year": 2010, "rainfall_mm": 130, "groundwater_index": 58, "active_khettaras_est": 300 },
+  { "year": 2011, "rainfall_mm": 75, "groundwater_index": 48, "active_khettaras_est": 280 },
+  { "year": 2012, "rainfall_mm": 60, "groundwater_index": 42, "active_khettaras_est": 260 },
+  { "year": 2013, "rainfall_mm": 90, "groundwater_index": 45, "active_khettaras_est": 250 },
+  { "year": 2014, "rainfall_mm": 105, "groundwater_index": 50, "active_khettaras_est": 240 },
+  { "year": 2015, "rainfall_mm": 55, "groundwater_index": 38, "active_khettaras_est": 220 },
+  { "year": 2016, "rainfall_mm": 70, "groundwater_index": 40, "active_khettaras_est": 210 },
+  { "year": 2017, "rainfall_mm": 45, "groundwater_index": 32, "active_khettaras_est": 195 },
+  { "year": 2018, "rainfall_mm": 80, "groundwater_index": 36, "active_khettaras_est": 185 },
+  { "year": 2019, "rainfall_mm": 35, "groundwater_index": 28, "active_khettaras_est": 170 },
+  { "year": 2020, "rainfall_mm": 50, "groundwater_index": 30, "active_khettaras_est": 160 },
+  { "year": 2021, "rainfall_mm": 65, "groundwater_index": 33, "active_khettaras_est": 155 },
+  { "year": 2022, "rainfall_mm": 25, "groundwater_index": 22, "active_khettaras_est": 150 },
+  { "year": 2023, "rainfall_mm": 40, "groundwater_index": 25, "active_khettaras_est": 148 },
+  { "year": 2024, "rainfall_mm": 30, "groundwater_index": 20, "active_khettaras_est": 145 },
+  { "year": 2025, "rainfall_mm": 55, "groundwater_index": 24, "active_khettaras_est": 150 }
+]

@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-001",
+        "name": "Khettara 001",
+        "status": "inactive",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2013,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.517321343072428,
+          31.052397190598096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-002",
+        "name": "Khettara 002",
+        "status": "active",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2021,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.595674877657632,
+          31.113622886431664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-003",
+        "name": "Khettara 003",
+        "status": "inactive",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 1994,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.535977783699299,
+          31.13400359906445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-004",
+        "name": "Khettara 004",
+        "status": "inactive",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2006,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.579863834354086,
+          31.09917710016728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-005",
+        "name": "Khettara 005",
+        "status": "inactive",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 1997,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.611786156369124,
+          31.096173731340418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-006",
+        "name": "Khettara 006",
+        "status": "active",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2021,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.491877708060345,
+          31.064890440965595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-007",
+        "name": "Khettara 007",
+        "status": "active",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2024,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.509391844728597,
+          31.077327557913435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-008",
+        "name": "Khettara 008",
+        "status": "active",
+        "province": "Ouarzazate",
+        "oasis": "Skoura",
+        "last_observed_year": 2022,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.538605433706469,
+          31.058096596758098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-009",
+        "name": "Khettara 009",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Ktaoua",
+        "last_observed_year": 1999,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.885065892855575,
+          30.168151969150124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-010",
+        "name": "Khettara 010",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Ktaoua",
+        "last_observed_year": 1989,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.867010902665326,
+          30.19756954937924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-011",
+        "name": "Khettara 011",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Ktaoua",
+        "last_observed_year": 2008,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.916439993240227,
+          30.083383721136386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-012",
+        "name": "Khettara 012",
+        "status": "active",
+        "province": "Zagora",
+        "oasis": "Ktaoua",
+        "last_observed_year": 2021,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8649328187094945,
+          30.18945113504531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-013",
+        "name": "Khettara 013",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Ktaoua",
+        "last_observed_year": 1996,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8738773959418715,
+          30.153936865376668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-014",
+        "name": "Khettara 014",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Tinzouline",
+        "last_observed_year": 1987,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.962050357296785,
+          30.292619192597737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-015",
+        "name": "Khettara 015",
+        "status": "unknown",
+        "province": "Zagora",
+        "oasis": "Tinzouline",
+        "last_observed_year": 1990,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.972013451715716,
+          30.3187548554975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-016",
+        "name": "Khettara 016",
+        "status": "active",
+        "province": "Zagora",
+        "oasis": "Tinzouline",
+        "last_observed_year": 2023,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.921397097156356,
+          30.178675637827936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-017",
+        "name": "Khettara 017",
+        "status": "active",
+        "province": "Zagora",
+        "oasis": "Tinzouline",
+        "last_observed_year": 2023,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.860431202833822,
+          30.17943177045709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-018",
+        "name": "Khettara 018",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 1989,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.569048046848097,
+          31.489347277832525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-019",
+        "name": "Khettara 019",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 1989,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.507510221017444,
+          31.501388302356848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-020",
+        "name": "Khettara 020",
+        "status": "unknown",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 2012,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.492505868896673,
+          31.553754834464566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-021",
+        "name": "Khettara 021",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 1987,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4607698732011825,
+          31.55139876049013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-022",
+        "name": "Khettara 022",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 2007,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.497522238894118,
+          31.494046677107676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-023",
+        "name": "Khettara 023",
+        "status": "active",
+        "province": "Tinghir",
+        "oasis": "Tinghir",
+        "last_observed_year": 2023,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.481824785290345,
+          31.502156486237762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-024",
+        "name": "Khettara 024",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Todgha",
+        "last_observed_year": 2007,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.519996592900408,
+          31.542429440002138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-025",
+        "name": "Khettara 025",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Todgha",
+        "last_observed_year": 2014,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.60624618588198,
+          31.591788400108957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-026",
+        "name": "Khettara 026",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Todgha",
+        "last_observed_year": 2017,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.615748028976318,
+          31.515699481826744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-027",
+        "name": "Khettara 027",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Todgha",
+        "last_observed_year": 2003,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.578421166727314,
+          31.575419822519684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-028",
+        "name": "Khettara 028",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Todgha",
+        "last_observed_year": 2000,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.541158707043012,
+          31.524140629229677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-029",
+        "name": "Khettara 029",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Goulmima",
+        "last_observed_year": 1995,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.920073493205428,
+          31.652799301576245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-030",
+        "name": "Khettara 030",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Goulmima",
+        "last_observed_year": 2018,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.880560262584206,
+          31.69968214644692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-031",
+        "name": "Khettara 031",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Goulmima",
+        "last_observed_year": 2005,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.931660734342125,
+          31.632272632558422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-032",
+        "name": "Khettara 032",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Goulmima",
+        "last_observed_year": 2019,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.017817551147099,
+          31.710833385112114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-033",
+        "name": "Khettara 033",
+        "status": "unknown",
+        "province": "Errachidia",
+        "oasis": "Goulmima",
+        "last_observed_year": 2002,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.892445539463228,
+          31.76997392666974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-034",
+        "name": "Khettara 034",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 1999,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.346887534272791,
+          31.309644122220284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-035",
+        "name": "Khettara 035",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 2004,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2664498615846105,
+          31.369301488774074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-036",
+        "name": "Khettara 036",
+        "status": "active",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 2020,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.296816285002286,
+          31.368941315944323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-037",
+        "name": "Khettara 037",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 1988,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.313769514116985,
+          31.325682603441113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-038",
+        "name": "Khettara 038",
+        "status": "active",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 2021,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.334557123256266,
+          31.360442126999136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-039",
+        "name": "Khettara 039",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 2001,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2777544680721045,
+          31.305955809855522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-040",
+        "name": "Khettara 040",
+        "status": "unknown",
+        "province": "Errachidia",
+        "oasis": "Tafilalet",
+        "last_observed_year": 1993,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275019472649794,
+          31.274017997387382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-041",
+        "name": "Khettara 041",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Rissani",
+        "last_observed_year": 1986,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.261940915158165,
+          31.26750294664133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-042",
+        "name": "Khettara 042",
+        "status": "active",
+        "province": "Errachidia",
+        "oasis": "Rissani",
+        "last_observed_year": 2022,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2485147633472575,
+          31.304116987818865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-043",
+        "name": "Khettara 043",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Rissani",
+        "last_observed_year": 1986,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275155864731986,
+          31.31231328535621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-044",
+        "name": "Khettara 044",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Rissani",
+        "last_observed_year": 1985,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.241482725442909,
+          31.241275287412904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-045",
+        "name": "Khettara 045",
+        "status": "active",
+        "province": "Errachidia",
+        "oasis": "Rissani",
+        "last_observed_year": 2021,
+        "notes": "En fonctionnement partiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.237138156698895,
+          31.28148292977019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-046",
+        "name": "Khettara 046",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Jorf",
+        "last_observed_year": 2010,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.371211186045932,
+          31.46444167973096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-047",
+        "name": "Khettara 047",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Jorf",
+        "last_observed_year": 1993,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.443572236156434,
+          31.50211677765055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-048",
+        "name": "Khettara 048",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Jorf",
+        "last_observed_year": 1988,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463629411058016,
+          31.53605990733405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-049",
+        "name": "Khettara 049",
+        "status": "inactive",
+        "province": "Errachidia",
+        "oasis": "Jorf",
+        "last_observed_year": 2019,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.447907718678097,
+          31.569767857027305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-050",
+        "name": "Khettara 050",
+        "status": "unknown",
+        "province": "Tinghir",
+        "oasis": "Tinejdad",
+        "last_observed_year": 2005,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.022605971199372,
+          31.490776027814658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-051",
+        "name": "Khettara 051",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Tinejdad",
+        "last_observed_year": 1999,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.069015285197579,
+          31.567680014339203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-052",
+        "name": "Khettara 052",
+        "status": "unknown",
+        "province": "Tinghir",
+        "oasis": "Tinejdad",
+        "last_observed_year": 1993,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.025967533718849,
+          31.453323714485837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-053",
+        "name": "Khettara 053",
+        "status": "unknown",
+        "province": "Tinghir",
+        "oasis": "Tinejdad",
+        "last_observed_year": 2009,
+        "notes": "État non documenté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9696095175351545,
+          31.484232843862724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-054",
+        "name": "Khettara 054",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Agdez",
+        "last_observed_year": 2005,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82587293912348,
+          30.028362308728383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-055",
+        "name": "Khettara 055",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Agdez",
+        "last_observed_year": 2005,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.91026349551293,
+          30.045338090735655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-056",
+        "name": "Khettara 056",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Agdez",
+        "last_observed_year": 2008,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.844175307419444,
+          30.0559279166797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-057",
+        "name": "Khettara 057",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "M'Hamid",
+        "last_observed_year": 1989,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6740580706336745,
+          29.82465740115549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-058",
+        "name": "Khettara 058",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "M'Hamid",
+        "last_observed_year": 2017,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.669881915509388,
+          29.75647827417408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-059",
+        "name": "Khettara 059",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Tazzarine",
+        "last_observed_year": 1988,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.591835722683643,
+          30.650397629432756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-060",
+        "name": "Khettara 060",
+        "status": "inactive",
+        "province": "Zagora",
+        "oasis": "Tazzarine",
+        "last_observed_year": 1991,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.559222674607945,
+          30.73898447664204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-061",
+        "name": "Khettara 061",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Alnif",
+        "last_observed_year": 2005,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.167727636571328,
+          31.181972962759964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-062",
+        "name": "Khettara 062",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Alnif",
+        "last_observed_year": 2007,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.202232438939263,
+          31.066270614102596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kht-063",
+        "name": "Khettara 063",
+        "status": "inactive",
+        "province": "Tinghir",
+        "oasis": "Alnif",
+        "last_observed_year": 2017,
+        "notes": "Abandonnée (assèchement de la nappe)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.21505135969225,
+          31.096345354194472
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ORMVAO — Inventaire des khettaras (Draa-Tafilalet)",
+    "type": "report",
+    "link": "",
+    "note": "Recensement officiel des khettaras dans le périmètre de l'ORMVAO"
+  },
+  {
+    "name": "Beraaouz et al. (2022) — Khettaras in Morocco",
+    "type": "paper",
+    "link": "https://doi.org/10.1016/j.jafrearsci.2022.104650",
+    "note": "Étude scientifique sur l'évolution des khettaras dans le Sud-Est marocain"
+  },
+  {
+    "name": "Google Earth Engine",
+    "type": "platform",
+    "link": "https://earthengine.google.com",
+    "note": "Imagerie satellite pour analyse diachronique des surfaces oasiennes"
+  },
+  {
+    "name": "CNRM — Données climatiques Maroc",
+    "type": "report",
+    "link": "https://www.marocmeteo.ma",
+    "note": "Séries pluviométriques et indices de sécheresse"
+  },
+  {
+    "name": "Loi 36-15 relative à l'eau",
+    "type": "law",
+    "link": "https://www.sgg.gov.ma/",
+    "note": "Texte officiel publié au Bulletin Officiel"
+  },
+  {
+    "name": "ABHDON — Agence du Bassin Hydraulique du Draa-Oued Noun",
+    "type": "institution",
+    "link": "",
+    "note": "Données piézométriques et suivi des nappes"
+  },
+  {
+    "name": "ABHGZR — Agence du Bassin Hydraulique du Guir-Ziz-Rheris",
+    "type": "institution",
+    "link": "",
+    "note": "Données sur les ressources en eau de la région"
+  },
+  {
+    "name": "ANDZOA — Agence Nationale pour le Développement des Zones Oasiennes",
+    "type": "institution",
+    "link": "",
+    "note": "Programmes de sauvegarde des oasis"
+  }
+]

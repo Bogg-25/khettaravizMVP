@@ -1,0 +1,61 @@
+{
+  "wbsrce": [
+    {
+      "letter": "W",
+      "title": "Water (Eau)",
+      "contribution": "Documenter le déclin des khettaras comme indicateur de la pression sur les ressources en eau souterraine dans le Sud-Est marocain."
+    },
+    {
+      "letter": "B",
+      "title": "Biodiversity (Biodiversité)",
+      "contribution": "Les oasis, alimentées par les khettaras, abritent une biodiversité agricole unique (palmiers dattiers, cultures sous couvert)."
+    },
+    {
+      "letter": "E",
+      "title": "Ecosystem Services (Services écosystémiques)",
+      "contribution": "Les khettaras maintiennent des services écosystémiques essentiels : microclimat oasien, recharge de nappe, fertilité des sols."
+    },
+    {
+      "letter": "R",
+      "title": "Resilience (Résilience)",
+      "contribution": "Les khettaras représentent un système d'irrigation résilient, basé sur la gravité et l'entretien collectif, sans apport énergétique externe."
+    },
+    {
+      "letter": "C",
+      "title": "Culture (Culture)",
+      "contribution": "Les khettaras sont un patrimoine culturel matériel et immatériel transmis depuis plus de 1000 ans."
+    },
+    {
+      "letter": "E",
+      "title": "Education (Éducation)",
+      "contribution": "Sensibiliser le public et les décideurs via des visualisations open-access sur l'importance des khettaras."
+    }
+  ],
+  "sdgs": [
+    {
+      "code": "6.5.1",
+      "title": "Gestion intégrée des ressources en eau",
+      "contribution": "Plaidoyer pour inclure les khettaras dans la GIRE au niveau du bassin du Draa-Tafilalet."
+    },
+    {
+      "code": "11.4",
+      "title": "Protection du patrimoine culturel et naturel",
+      "contribution": "Valorisation des khettaras comme patrimoine hydraulique mondial."
+    },
+    {
+      "code": "13.1",
+      "title": "Résilience face aux changements climatiques",
+      "contribution": "Les khettaras sont une solution d'adaptation fondée sur la nature."
+    },
+    {
+      "code": "15.3.1",
+      "title": "Lutte contre la désertification",
+      "contribution": "Le déclin des khettaras est un indicateur précoce de la dégradation des terres oasiennes."
+    },
+    {
+      "code": "16.7.2",
+      "title": "Prise de décision inclusive",
+      "contribution": "Plaidoyer pour l'intégration des communautés traditionnelles dans la gouvernance de l'eau."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Absence de statut juridique spécifique pour les khettaras",
+    "description": "La Loi 36-15 sur l'eau ne reconnaît pas les khettaras comme un patrimoine hydraulique traditionnel bénéficiant d'une protection juridique distincte.",
+    "why_it_matters": "Sans reconnaissance légale, les khettaras ne peuvent prétendre à des financements dédiés ni à une protection face aux forages modernes."
+  },
+  {
+    "title": "Gouvernance centralisée excluant les usagers traditionnels",
+    "description": "Les comités de bassin institués par la loi 36-15 n'intègrent pas de représentation formelle des gestionnaires traditionnels de khettaras (jmaa, mouggars).",
+    "why_it_matters": "Les savoirs locaux et les systèmes de gestion collective sont ignorés dans les décisions de gestion de l'eau."
+  },
+  {
+    "title": "Aucun mécanisme de subvention pour l'entretien des khettaras",
+    "description": "La loi prévoit des aides pour les équipements d'irrigation modernes (goutte-à-goutte) mais pas pour la réhabilitation des khettaras.",
+    "why_it_matters": "Les communautés locales n'ont pas les moyens financiers d'entretenir les galeries souterraines."
+  },
+  {
+    "title": "Silence sur la protection des nappes phréatiques superficielles",
+    "description": "La réglementation ne limite pas suffisamment les forages intensifs qui captent les mêmes aquifères que les khettaras.",
+    "why_it_matters": "L'abaissement du niveau piézométrique est la cause principale de l'assèchement des khettaras."
+  },
+  {
+    "title": "Absence de système de suivi et d'inventaire national",
+    "description": "Aucune disposition légale n'impose un recensement périodique des khettaras ou un suivi de leur état de fonctionnement.",
+    "why_it_matters": "Sans données actualisées, il est impossible d'évaluer l'efficacité des politiques de préservation."
+  }
+]
