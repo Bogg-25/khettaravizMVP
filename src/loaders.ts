@@ -7,7 +7,7 @@ import type {
   ImpactData,
 } from './types'
 
-const BASE = '/khettaraviz/data'
+const DATA_BASE = `${import.meta.env.BASE_URL}data`
 
 async function fetchJson<T>(path: string): Promise<T> {
   const res = await fetch(path)
@@ -18,25 +18,25 @@ async function fetchJson<T>(path: string): Promise<T> {
 }
 
 export function loadKhettaras(): Promise<KhettaraCollection> {
-  return fetchJson<KhettaraCollection>(`${BASE}/khettaras.geojson`)
+  return fetchJson<KhettaraCollection>(`${DATA_BASE}khettaras.geojson`)
 }
 
 export function loadTimeSeries(): Promise<TimeSeriesDatum[]> {
-  return fetchJson<TimeSeriesDatum[]>(`${BASE}/timeseries.json`)
+  return fetchJson<TimeSeriesDatum[]>(`${DATA_BASE}timeseries.json`)
 }
 
 export function loadOasisLoss(): Promise<OasisLossDatum[]> {
-  return fetchJson<OasisLossDatum[]>(`${BASE}/oasis_loss.json`)
+  return fetchJson<OasisLossDatum[]>(`${DATA_BASE}oasis_loss.json`)
 }
 
 export function loadSources(): Promise<Source[]> {
-  return fetchJson<Source[]>(`${BASE}/sources.json`)
+  return fetchJson<Source[]>(`${DATA_BASE}sources.json`)
 }
 
 export function loadPolicyGaps(): Promise<PolicyGap[]> {
-  return fetchJson<PolicyGap[]>(`${BASE}/policy_gaps.json`)
+  return fetchJson<PolicyGap[]>(`${DATA_BASE}policy_gaps.json`)
 }
 
 export function loadImpact(): Promise<ImpactData> {
-  return fetchJson<ImpactData>(`${BASE}/impact.json`)
+  return fetchJson<ImpactData>(`${DATA_BASE}impact.json`)
 }
