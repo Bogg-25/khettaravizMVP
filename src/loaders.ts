@@ -7,7 +7,7 @@ import type {
   ImpactData,
 } from './types'
 
-const DATA_BASE = `${import.meta.env.BASE_URL}data`
+const DATA_BASE = `${import.meta.env.BASE_URL}data/`
 
 async function fetchJson<T>(path: string): Promise<T> {
   const res = await fetch(path)
